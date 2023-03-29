@@ -1,0 +1,100 @@
+#first {
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    background-color: #eeeff2;
+    display: grid;
+    grid-template-columns: 100px;
+    border-left: 10px dotted #D0D0FF;
+}
+
+#second {
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    background-color: #eeeff2;
+    display: grid;
+    grid-template-columns: 100px;
+    border-left: 10px dotted #D0D0FF;
+}
+
+#third {
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+}
+
+#fourth {
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+}
+
+#fifth {
+    font-size: 40px;
+    margin: 10px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+}
+
+div {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+}
+
+#last {
+    font-size: 40px;
+    display: grid;
+    grid-template-columns: 100px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#first:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+#second:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+#third:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+#fourth:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+#fifth:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+#last:hover {
+    background-color: yellow;
+    color: goldenrod;
+
+}
+
+/*hover가 뭐지?*/
